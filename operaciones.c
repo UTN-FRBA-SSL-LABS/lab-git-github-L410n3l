@@ -14,6 +14,7 @@ int restar(int a, int b) {
 
 /* ── multiplicar — implementar en feature/mi-funcion ─────────────────────── */
 
+/* Multiplica dos numeros de tipo entero retornando su producto al final */
 int multiplicar(int a, int b) {
     (void)a; (void)b;
     return 0; /* TODO: implementar */
